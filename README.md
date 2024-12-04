@@ -26,3 +26,7 @@ LM2940-5.0V	5V稳压芯片	V1	TO220A	LM2940	1
 JP3_5		WET PLUG	KF128-3.81-3P	JP3	1
 11.0592M	Crystal Oscillator	Y1	R38	XTAL	1
 
+![89d88c940507c9098881728c8e0c74a](https://github.com/user-attachments/assets/edd66b6f-c807-42a3-9dfa-156ffdf6be99)
+![e259e0bda48a0f7b35bfacf6cfdee95](https://github.com/user-attachments/assets/b02de20b-1f21-4edd-805f-2895464d36c4)
+![f63f93c579f296c14093b1c9a92594d](https://github.com/user-attachments/assets/88487315-bc01-4d53-b5cf-fefa41f5394a)
+![成品图功能正常](https://github.com/user-attachments/assets/fe4fd04d-8bf2-41c7-8b53-76097cba2f1a)
