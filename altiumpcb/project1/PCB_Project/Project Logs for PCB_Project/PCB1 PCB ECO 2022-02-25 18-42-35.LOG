@@ -1,0 +1,169 @@
+Change Component Footprint: Designator=R1 Old Footprint=AXIAL-0.3 New Footprint=AXIAL0.4-1/4W
+Change Component Footprint: Designator=R2 Old Footprint=AXIAL-0.3 New Footprint=AXIAL0.4-1/4W
+Change Component Footprint: Designator=R3 Old Footprint=AXIAL-0.3 New Footprint=AXIAL0.4-1/4W
+Change Component Footprint: Designator=R4 Old Footprint=AXIAL-0.3 New Footprint=AXIAL0.4-1/4W
+Change Component Footprint: Designator=R5 Old Footprint=AXIAL-0.3 New Footprint=AXIAL0.4-1/4W
+Change Component Footprint: Designator=R6 Old Footprint=AXIAL-0.3 New Footprint=AXIAL0.4-1/4W
+Change Component Footprint: Designator=R7 Old Footprint=AXIAL-0.3 New Footprint=AXIAL0.4-1/4W
+Change Component Footprint: Designator=R8 Old Footprint=AXIAL-0.3 New Footprint=AXIAL0.4-1/4W
+Change Component Footprint: Designator=R9 Old Footprint=AXIAL-0.3 New Footprint=AXIAL0.4-1/4W
+Change Component Footprint: Designator=R10 Old Footprint=AXIAL-0.3 New Footprint=AXIAL0.4-1/4W
+Change Component Footprint: Designator=C1 Old Footprint=RAD-0.3 New Footprint=CBB 5*6.3*3
+Change Component Footprint: Designator=C2 Old Footprint=RAD-0.3 New Footprint=CBB 5*6.3*3
+Change Component Footprint: Designator=C3 Old Footprint=RAD-0.3 New Footprint=CBB 5*6.3*3
+Change Component Footprint: Designator=C4 Old Footprint=RAD-0.3 New Footprint=CBB 5*6.3*3
+Added Component: Designator=CON(DC-005)
+Added Component: Designator=DHT11(XH2.54-LI-3P)
+Added Component: Designator=IO1(HDR2.54-LI-20P)
+Added Component: Designator=IO2(HDR2.54-LI-20P)
+Added Component: Designator=LCD1602(LCD-1602)
+Added Component: Designator=LS1(BEEP 5x9x5.5)
+Added Component: Designator=PZ1(HDR2.54-M-LI-9P)
+Added Component: Designator=PZ2(HDR2.54-M-LI-9P)
+Added Component: Designator=Q1(TO92A)
+Added Component: Designator=Q2(TO92A)
+Added Component: Designator=Q3(TO92A)
+Added Component: Designator=Q4(TO92A)
+Added Component: Designator=SW1(KFT DIP-8X8)
+Added Component: Designator=(DIP-40)
+Added Component: Designator=V1(TO220A)
+Added Component: Designator=上键(SW DIP-6*6*5)
+Added Component: Designator=下键(SW DIP-6*6*5)
+Added Component: Designator=切换键(SW DIP-6*6*5)
+Added Component: Designator=加湿器(SRD-C_B)
+Added Component: Designator=加湿器插座(KF128-3.81-3P)
+Added Component: Designator=加热垫(SRD-C_B)
+Added Component: Designator=加热垫插座(KF128-3.81-3P)
+Added Component: Designator=复位键(SW DIP-6*6*5)
+Added Component: Designator=用电器正(XH2.54-LI-3P)
+Added Component: Designator=预设键(SW DIP-6*6*5)
+Added Component: Designator=风扇(SRD-C_B)
+Added Component: Designator=风扇插座(KF128-3.81-3P)
+Added Pin To Net: NetName=P10 Pin=-1
+Added Pin To Net: NetName=P11 Pin=-2
+Added Pin To Net: NetName=P12 Pin=-3
+Added Pin To Net: NetName=P13 Pin=-4
+Added Pin To Net: NetName=P14 Pin=-5
+Added Pin To Net: NetName=P15 Pin=-6
+Added Pin To Net: NetName=P16 Pin=-7
+Added Pin To Net: NetName=P17 Pin=-8
+Added Pin To Net: NetName=RESET Pin=-9
+Added Pin To Net: NetName=P30 Pin=-10
+Added Pin To Net: NetName=P31 Pin=-11
+Added Pin To Net: NetName=P32 Pin=-12
+Added Pin To Net: NetName=P33 Pin=-13
+Added Pin To Net: NetName=P34 Pin=-14
+Added Pin To Net: NetName=P35 Pin=-15
+Added Pin To Net: NetName=P36 Pin=-16
+Added Pin To Net: NetName=P37 Pin=-17
+Added Pin To Net: NetName=XTAL2 Pin=-18
+Added Pin To Net: NetName=XTAL1 Pin=-19
+Added Pin To Net: NetName=B1 Pin=-20
+Added Pin To Net: NetName=P20 Pin=-21
+Added Pin To Net: NetName=P21 Pin=-22
+Added Pin To Net: NetName=P22 Pin=-23
+Added Pin To Net: NetName=P23 Pin=-24
+Added Pin To Net: NetName=P24 Pin=-25
+Added Pin To Net: NetName=P25 Pin=-26
+Added Pin To Net: NetName=P26 Pin=-27
+Added Pin To Net: NetName=P27 Pin=-28
+Added Pin To Net: NetName=PSEN Pin=-29
+Added Pin To Net: NetName=ALE Pin=-30
+Added Pin To Net: NetName=EA Pin=-31
+Added Pin To Net: NetName=P07 Pin=-32
+Added Pin To Net: NetName=P06 Pin=-33
+Added Pin To Net: NetName=P05 Pin=-34
+Added Pin To Net: NetName=P04 Pin=-35
+Added Pin To Net: NetName=P03 Pin=-36
+Added Pin To Net: NetName=P02 Pin=-37
+Added Pin To Net: NetName=P01 Pin=-38
+Added Pin To Net: NetName=P00 Pin=-39
+Added Pin To Net: NetName=VCC Pin=-40
+Added Pin To Net: NetName=NetCON_1 Pin=CON-1
+Added Pin To Net: NetName=B1 Pin=LCD1602-1
+Added Pin To Net: NetName=VCC Pin=LCD1602-2
+Added Pin To Net: NetName=NetLCD1602_3 Pin=LCD1602-3
+Added Pin To Net: NetName=P14 Pin=LCD1602-4
+Added Pin To Net: NetName=P15 Pin=LCD1602-5
+Added Pin To Net: NetName=P16 Pin=LCD1602-6
+Added Pin To Net: NetName=P00 Pin=LCD1602-7
+Added Pin To Net: NetName=P01 Pin=LCD1602-8
+Added Pin To Net: NetName=P02 Pin=LCD1602-9
+Added Pin To Net: NetName=P03 Pin=LCD1602-10
+Added Pin To Net: NetName=P04 Pin=LCD1602-11
+Added Pin To Net: NetName=P05 Pin=LCD1602-12
+Added Pin To Net: NetName=P06 Pin=LCD1602-13
+Added Pin To Net: NetName=P07 Pin=LCD1602-14
+Added Pin To Net: NetName=VCC Pin=LCD1602-15
+Added Pin To Net: NetName=NetLCD1602_16 Pin=LCD1602-16
+Added Pin To Net: NetName=VCC Pin=LS1-1
+Added Pin To Net: NetName=NetLS1_2 Pin=LS1-2
+Added Pin To Net: NetName=B1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetLS1_2 Pin=Q1-3
+Added Pin To Net: NetName=VCC Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=VCC Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_3 Pin=Q3-3
+Added Pin To Net: NetName=VCC Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-2
+Added Pin To Net: NetName=NetQ4_3 Pin=Q4-3
+Added Pin To Net: NetName=VCC Pin=SW1-2
+Added Pin To Net: NetName=NetSW1_3 Pin=SW1-3
+Added Pin To Net: NetName=NetCON_1 Pin=V1-1
+Added Pin To Net: NetName=B1 Pin=V1-2
+Added Pin To Net: NetName=NetSW1_3 Pin=V1-3
+Added Pin To Net: NetName=P23 Pin=上键-1
+Added Pin To Net: NetName=B1 Pin=上键-2
+Added Pin To Net: NetName=P22 Pin=下键-1
+Added Pin To Net: NetName=B1 Pin=下键-2
+Added Pin To Net: NetName=P21 Pin=切换键-1
+Added Pin To Net: NetName=B1 Pin=切换键-2
+Added Pin To Net: NetName=B1 Pin=加湿器-1
+Added Pin To Net: NetName=NetQ4_3 Pin=加湿器-2
+Added Pin To Net: NetName=G3 Pin=加湿器-3
+Added Pin To Net: NetName=B1 Pin=加湿器-4
+Added Pin To Net: NetName=C3 Pin=加湿器-5
+Added Pin To Net: NetName=B1 Pin=加热垫-1
+Added Pin To Net: NetName=NetQ3_3 Pin=加热垫-2
+Added Pin To Net: NetName=G2 Pin=加热垫-3
+Added Pin To Net: NetName=B1 Pin=加热垫-4
+Added Pin To Net: NetName=C2 Pin=加热垫-5
+Added Pin To Net: NetName=NetR6_2 Pin=复位键-1
+Added Pin To Net: NetName=RESET Pin=复位键-2
+Added Pin To Net: NetName=P20 Pin=预设键-1
+Added Pin To Net: NetName=B1 Pin=预设键-2
+Added Pin To Net: NetName=B1 Pin=风扇-1
+Added Pin To Net: NetName=NetQ2_3 Pin=风扇-2
+Added Pin To Net: NetName=G1 Pin=风扇-3
+Added Pin To Net: NetName=B1 Pin=风扇-4
+Added Pin To Net: NetName=C1 Pin=风扇-5
+Added Member To Class: ClassName=Sheet1 Member=Component CON 3.5*1.3
+Added Member To Class: ClassName=Sheet1 Member=Component DHT11 JP3
+Added Member To Class: ClassName=Sheet1 Member=Component IO1 JP20
+Added Member To Class: ClassName=Sheet1 Member=Component IO2 JP20
+Added Member To Class: ClassName=Sheet1 Member=Component LCD1602 
+Added Member To Class: ClassName=Sheet1 Member=Component LS1 DC5V
+Added Member To Class: ClassName=Sheet1 Member=Component PZ1 Resister Packs
+Added Member To Class: ClassName=Sheet1 Member=Component PZ2 Resister Packs
+Added Member To Class: ClassName=Sheet1 Member=Component Q1 SS8050
+Added Member To Class: ClassName=Sheet1 Member=Component Q2 SS8550
+Added Member To Class: ClassName=Sheet1 Member=Component Q3 SS8550
+Added Member To Class: ClassName=Sheet1 Member=Component Q4 SS8550
+Added Member To Class: ClassName=Sheet1 Member=Component SW1 KET 8X8
+Added Member To Class: ClassName=Sheet1 Member=Component  stc89c52rc
+Added Member To Class: ClassName=Sheet1 Member=Component V1 LM2940-5.0V
+Added Member To Class: ClassName=Sheet1 Member=Component 上键 6x6x5
+Added Member To Class: ClassName=Sheet1 Member=Component 下键 6x6x5
+Added Member To Class: ClassName=Sheet1 Member=Component 切换键 6x6x5
+Added Member To Class: ClassName=Sheet1 Member=Component 加湿器 SRD-05VDC-SL-C
+Added Member To Class: ClassName=Sheet1 Member=Component 加湿器插座 JP3
+Added Member To Class: ClassName=Sheet1 Member=Component 加热垫 SRD-05VDC-SL-C
+Added Member To Class: ClassName=Sheet1 Member=Component 加热垫插座 JP3
+Added Member To Class: ClassName=Sheet1 Member=Component 复位键 6x6x5
+Added Member To Class: ClassName=Sheet1 Member=Component 用电器正 JP3
+Added Member To Class: ClassName=Sheet1 Member=Component 预设键 6x6x5
+Added Member To Class: ClassName=Sheet1 Member=Component 风扇 SRD-05VDC-SL-C
+Added Member To Class: ClassName=Sheet1 Member=Component 风扇插座 JP3
